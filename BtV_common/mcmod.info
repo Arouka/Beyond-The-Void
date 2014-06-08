@@ -1,0 +1,21 @@
+[
+{
+  "modid": "BtV",
+  "name": "Beyond the Void",
+  "description": "Journey to the Center of the of the Earth. Adventure, Danger, and Magnificent sights await you!",
+  "version": "Indev 0.1",
+  "url": "http://www.Notanactualwebsite.com",
+  "updateUrl": "",
+  "authorList": [
+    "Arouka", "Epsilon04"
+    
+  ],
+  "credits": "Mod by Arouka, Textures by Epsilon04",
+  "logoFile": "/mods/BtV/textures/logo/logo.png",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
